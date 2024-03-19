@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selecionadas para Estágio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #0779e4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            margin: 0;
+            padding-bottom: 10px;
+        }
+        article {
+            padding: 20px;
+            background: #fff;
+        }
+        h2, p {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Resultados da Seleção de Estagiárias</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <article>
+            <h2>Parabéns às Selecionadas!</h2>
+            <p>É com grande satisfação que anunciamos os nomes das selecionadas para o programa de estágio. Cada uma de vocês demonstrou excelência e dedicação, e estamos entusiasmadas para tê-las conosco.</p>
+
+            <!-- Lista de selecionadas -->
+            <h3>Lote 1 - Nampula</h3>
+            <ul>
+                <li>Nome da Estagiária 1</li>
+                <li>Nome da Estagiária 2</li>
+            </ul>
+
+            <h3>Lote 2 - Zambezia</h3>
+            <ul>
+                <li>Nome da Estagiária 1</li>
+                <li>Nome da Estagiária 2</li>
+                <!-- Adicione mais estagiárias conforme necessário -->
+            </ul>
+
+            <h3>Lote 3 - Zambezia</h3>
+            <ul>
+                <li>Nome da Estagiária 1</li>
+                <li>Nome da Estagiária 2</li>
+                <!-- Adicione mais estagiárias conforme necessário -->
+            </ul>
+
+            <p>A todas as participantes, agradecemos o vosso empenho e esforço. Continuem a perseguir os vossos objetivos com dedicação e paixão.</p>
+        </article>
+    </div>
+</body>
+</html>
